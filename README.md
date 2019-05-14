@@ -1,6 +1,7 @@
-{::options parse_block_html="true" /}
-
 # Possessive_Rule
 Final Paper for Ling 270
 
-<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1Q67Aawy4X_dGZVe-1BAA1UmxirSHMgmj/view?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"/>
+<div class="iframe_container">
+  <iframe src="https://drive.google.com/file/d/1Q67Aawy4X_dGZVe-1BAA1UmxirSHMgmj/preview" width="640" height="480"></iframe>
+</div>
+
